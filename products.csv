@@ -1,0 +1,11 @@
+﻿Product_ID,Product_Name,Category,Season,Cost_Price,Selling_Price,Brand,Supplier,Material,Store_Location,Size,Discount
+P001,Blue_Denim_Jacket,Jackets,Winter,30,50,Levi's,Trendy_Textiles,Denim,Kolkata,Medium,5%
+P002,White_Cotton_T-Shirt,T-Shirts,Summer,5,10,H&M,Fashion_Hub,Cotton,Delhi,Large,10%
+P003,Red_Wool_Sweater,Sweaters,Winter,20,40,Zara,Style_Source,Wool,Mumbai,Small,5%
+P004,Black_Leather_Belt,Accessories,All,10,20,Fashion_World,Leather_Luxe,Leather,Delhi,One_Size,8%
+P005,Gray_Sports_Shorts,Shorts,Summer,15,30,Nike,Active_Attire,Mesh,Chennai,Medium,12%
+P006,Green_Cargo_Pants,Pants,All,25,50,Adidas,Sporty_Suppliers,Polyester,Bangalore,One_Size,15%
+P007,Yellow_Raincoat,Jackets,Rainy,35,70,Columbia,Rainy_Wear,Nylon,Delhi,Large,10%
+P008,Brown_Leather_Boots,Shoes,Winter,50,100,Timberland,Foot_Fashion,Leather,Mumbai,Large,10%
+P009,White_Sneakers,Shoes,All,40,80,Puma,Sporty_Suppliers,Canvas,Chennai,Medium,15%
+P010,Black_Sunglasses,Accessories,Summer,20,40,Ray-Ban,Shades_Galore,Glass,Delhi,One_Size,5%

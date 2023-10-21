@@ -1,0 +1,11 @@
+﻿Product_ID,Stock_Level,Reorder_Point,Supplier
+P001,40,10,Trendy_Textiles
+P002,80,20,Fashion_Hub
+P003,60,15,Style_Source
+P004,30,5,Leather_Luxe
+P005,50,10,Active_Attire
+P006,70,20,Sporty_Suppliers
+P007,20,5,Rainy_Wear
+P008,90,25,Foot_Fashion
+P009,45,10,Sporty_Suppliers
+P010,85,20,Shades_Galore
