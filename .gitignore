@@ -1,0 +1,13 @@
+# Ignore specific files
+app.txt
+server.txt
+ui.txt
+InventoryApp.R
+NIFT project.R
+NIFT project_modified.R
+product_P001_method_ETS_plot.png
+product_P001_method_SMA_plot.png
+product_P002_method_ETS_plot.png
+product_P002_method_SMA_plot.png
+product_P003_method_ETS_plot.png
+product_P003_method_SMA_plot.png
